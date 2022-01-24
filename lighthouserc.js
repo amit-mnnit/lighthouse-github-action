@@ -13,7 +13,7 @@ module.exports = {
       },
     },
     upload: {
-      target: "lhci",
+      target: "temporary-public-storage",
     },
   },
 };
